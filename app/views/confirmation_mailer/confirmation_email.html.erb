@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+    <h1>confirmation of order</h1>
+    <table>
+    <thead>
+      <tr>
+        <th colspan="2">Product</th>
+        <th>Quantity</th>
+        <th>Total Price</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <%= render @line_items %>
+    </tbody>
+    <table>
+    <%= render @order %>
+    <p>Thanks for the order and have a great day!</p>
+  </body>
+</html>
