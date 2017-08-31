@@ -1,4 +1,4 @@
-class Admin::CategoriesController < ApplicationController
+class Admin::CategoriesController < Admin::BaseController
 
   def index
     @categories = Category.all
@@ -25,5 +25,4 @@ class Admin::CategoriesController < ApplicationController
       :name,
     )
   end
-
 end
