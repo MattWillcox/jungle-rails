@@ -25,7 +25,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 Email previews of the last order submitted can be viewed from:
 http://localhost:3000/rails/mailers/confirmation_mailer/confirmation_email
-<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot1.png' height ='50' width='900'></a>
+<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot1.png' width='800'></a>
 
 ## Screenshots
 
