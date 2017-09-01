@@ -25,8 +25,16 @@
         </dl>
       </div>
 
-      <div class="col-12">
-        <h2>User Reviews:</h2>
+      <div class="col-sm-8">
+        <h3>Add a review:</h3>
+        <%= form_tag('/reviews/', method: "post") do %>
+          <%= label_tag(:description, "Description:") %>
+          <%= text_field_tag(:description) %>
+          <%= label_tag(:rating, "Rating:") %>
+          <%= select_tag(:rating, options_for_select([5, 4, 3, 2, 1], 5)) %>
+          <%= submit_tag("Submit") %>
+        <% end %>
+        <h3>User Reviews:</h3>
         <%= render @reviews %>
       </div>
     </div>
