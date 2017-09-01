@@ -1,0 +1,14 @@
+<table>
+<tr>
+  <td>
+    <%= review.rating %> STARS
+  </td>
+</tr>
+<tr>
+  <td>
+    <h4>User: <%= User.find(review.user_id).first_name %></h4>
+    <p>Description:</p>
+    <p><%= review.description %></p>
+  </td>
+</tr>
+</table>
