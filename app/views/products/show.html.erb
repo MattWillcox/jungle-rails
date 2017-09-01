@@ -40,7 +40,8 @@
         <%= form.submit 'Create Review', class: 'btn btn-primary' %>
         <% end %>
       <% else %>
-        <h3>Sign in to add a review</h3>
+        <div class="col-sm-8">
+          <h3>Sign in to add a review</h3>
       <% end %>
         <h3>User Reviews:</h3>
         <%= render @reviews %>
