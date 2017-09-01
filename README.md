@@ -29,10 +29,10 @@ http://localhost:3000/rails/mailers/confirmation_mailer/confirmation_email
 
 ## Screenshots
 
-<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot2.png' width='50' alt='home'>
-<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot3.png' width='50' alt='addprod'>
-<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot4.png' width='50' alt='prodshow'>
-<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot5.png' width='50' alt='cart'>
+<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot2.png' width='200' alt='home'>
+<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot3.png' width='200' alt='addprod'>
+<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot4.png' width='200' alt='prodshow'>
+<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot5.png' width='200' alt='cart'>
 
 ## Dependencies
 
