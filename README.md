@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of learning Rails by example.
 
 
 ## Setup
@@ -20,6 +20,19 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
+
+## Email Testing
+
+Email previews of the last order submitted can be viewed from:
+http://localhost:3000/rails/mailers/confirmation_mailer/confirmation_email
+<a href='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot1.png' height ='50' width='50'</a>
+
+## Screenshots
+
+<a href='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot2.png' height ='50' width='50'</a>
+<a href='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot3.png' height ='50' width='50'</a>
+<a href='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot4.png' height ='50' width='50'</a>
+<a href='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot5.png' height ='50' width='50'</a>
 
 ## Dependencies
 
