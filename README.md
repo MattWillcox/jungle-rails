@@ -25,14 +25,14 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 Email previews of the last order submitted can be viewed from:
 http://localhost:3000/rails/mailers/confirmation_mailer/confirmation_email
-<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot1.png' height ='50' width='50'></a>
+<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot1.png' height ='50' width='400'></a>
 
 ## Screenshots
 
-<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot2.png' width='200' alt='home'>
-<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot3.png' width='200' alt='addprod'>
-<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot4.png' width='200' alt='prodshow'>
-<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot5.png' width='200' alt='cart'>
+<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot2.png' width='400' alt='home'>
+<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot3.png' width='400' alt='addprod'>
+<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot4.png' width='400' alt='prodshow'>
+<img src='https://github.com/MattWillcox/jungle-rails/blob/master/app/assets/images/Screenshot5.png' width='400' alt='cart'>
 
 ## Dependencies
 
